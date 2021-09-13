@@ -29,7 +29,7 @@ Week | Class date | First half of class | Second half of class |
 6 | 2020-10-19 | ggplot basics | ggplot - themes and scales |
 7 | 2020-10-26 | ggplot - annotations | ggplot - multiplots |
 8 | 2020-11-02 | Working with dates | Merging and joining datasets|
-9 | 2020-11-09 | No class - fall break No class - fall break |
+9 | 2020-11-09 | No class - fall break | No class - fall break |
 10 | 2020-11-16 | Data exploration and counting | Working with strings |
 11 | 2020-11-23 | Working with model outputs | The magic of {purrr} |
 12 | 2020-11-30 | Conditionals, loops and more | Geospatial data with R|
