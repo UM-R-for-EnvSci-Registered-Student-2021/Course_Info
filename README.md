@@ -1,8 +1,7 @@
 <img src="img/R_for_EnvSci.png" alt="blogdown logo" align="right" height="150pm"/> 
 
 
-# University of Manitoba </br> R for Environmental Sciences </br> (ENVR 4000 / GEOG 7010)
-# Fall 2021
+# University of Manitoba </br> R for Environmental Sciences </br> (ENVR 4000 / GEOG 7010) </br> Fall 2021
 
 ## Past lecture slides and recordings
 
