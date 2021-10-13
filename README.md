@@ -25,7 +25,7 @@
 2. Week 02: *No assignment*
 3. Week 03: *No assignment*
 4. Week 04: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk04-Tidytuesday-commentary)
-5. Week 05: *Link comming soon*
+5. Week 05: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk05-Tidytuesday-commentary)
 
 ## Tentative course schedulle
 
