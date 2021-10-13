@@ -9,7 +9,7 @@
 2. Week 02: :movie_camera: [Recording](https://youtu.be/7ggmdjX0xbM) | :bar_chart: [Slides](https://www.dropbox.com/s/uxo1xmhcvl5ipnj/Wk2_UM_R_for_EnvSci.pptx?dl=0)
 3. Week 03: :movie_camera: [Recording](https://youtu.be/SYS_Iz1BsmU) | :bar_chart: [Slides](https://www.dropbox.com/s/9g4aperzq998fvk/Wk3_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk03-Class_materials)
 4. Week 04: :movie_camera: [Recording](https://youtu.be/HAWCdwgBzp8) | :bar_chart: [Slides](https://www.dropbox.com/s/t2vdp7keo4p4wm3/Wk4_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk04-Class_materials)
-5. Week 05: :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk05-Class_materials)
+5. Week 05: :movie_camera: [Recording](https://youtu.be/U1ODLgLxAgM) | :bar_chart: [Slides](https://www.dropbox.com/s/j1a6a2bv6lv8any/Wk5_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk05-Class_materials)
 
 ## Assignments
 
@@ -17,6 +17,7 @@
 2. Week 02: *No assignment*
 3. Week 03: [Link to accept the assignment](https://classroom.github.com/a/nOUCvb84)
 4. Week 04: [Link to accept the assignment](https://classroom.github.com/a/53XcaJP9)
+5. Week 05: *Link comming soon*
 
 ## TidyTuesday Commentary Assignments
 
@@ -24,6 +25,7 @@
 2. Week 02: *No assignment*
 3. Week 03: *No assignment*
 4. Week 04: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk04-Tidytuesday-commentary)
+5. Week 05: *Link comming soon*
 
 ## Tentative course schedulle
 
