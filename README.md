@@ -19,6 +19,7 @@
 3. Week 03: [Link to accept the assignment](https://classroom.github.com/a/nOUCvb84)
 4. Week 04: [Link to accept the assignment](https://classroom.github.com/a/53XcaJP9)
 5. Week 05: [Link to accept the assignment](https://classroom.github.com/a/1LHu6dyI)
+6. Week 06: [Link to accept the assignment](https://classroom.github.com/a/-M4sbWHf)
 
 ## TidyTuesday Commentary Assignments
 
@@ -27,6 +28,7 @@
 3. Week 03: *No assignment*
 4. Week 04: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk04-Tidytuesday-commentary)
 5. Week 05: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk05-Tidytuesday-commentary)
+6. Week 06: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk06-Tidytuesday-commentary)
 
 ## Tentative course schedulle
 
