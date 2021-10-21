@@ -17,7 +17,7 @@
 1. Week 01: [Link to accept the assignment](https://classroom.github.com/a/j3Aac7w5)
 2. Week 02: *No assignment*
 3. Week 03: [Link to accept the assignment](https://classroom.github.com/a/nOUCvb84) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk03-hw-solutions)
-4. Week 04: [Link to accept the assignment](https://classroom.github.com/a/53XcaJP9)
+4. Week 04: [Link to accept the assignment](https://classroom.github.com/a/53XcaJP9) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk04-hw-solutions)
 5. Week 05: [Link to accept the assignment](https://classroom.github.com/a/1LHu6dyI)
 6. Week 06: [Link to accept the assignment](https://classroom.github.com/a/-M4sbWHf)
 
