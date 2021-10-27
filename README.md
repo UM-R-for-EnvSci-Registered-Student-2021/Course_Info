@@ -30,6 +30,7 @@
 4. Week 04: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk04-Tidytuesday-commentary)
 5. Week 05: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk05-Tidytuesday-commentary)
 6. Week 06: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk06-Tidytuesday-commentary)
+7. Week 07: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk07-Tidytuesday-commentary)
 
 ## Tentative course schedulle
 
