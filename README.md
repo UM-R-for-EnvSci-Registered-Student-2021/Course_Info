@@ -11,7 +11,7 @@
 4. Week 04: :movie_camera: [Recording](https://youtu.be/HAWCdwgBzp8) | :bar_chart: [Slides](https://www.dropbox.com/s/t2vdp7keo4p4wm3/Wk4_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk04-Class_materials)
 5. Week 05: :movie_camera: [Recording](https://youtu.be/U1ODLgLxAgM) | :bar_chart: [Slides](https://www.dropbox.com/s/j1a6a2bv6lv8any/Wk5_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk05-Class_materials)
 6. Week 06: :movie_camera: [Recording](https://youtu.be/ytqQrdzo3_E) | :bar_chart: [Slides](https://www.dropbox.com/s/dlhiqg6fdx95dwk/Wk6_UM_R_for_EnvSci.pptx?dl=0) |  :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk06-Class_materials)
-7. Week 07:  :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk07-Class_materials)
+7. Week 07: :movie_camera: [Recording](https://youtu.be/1h68_xhoGV4) | :bar_chart: [Slides](https://www.dropbox.com/s/lpknweqtrwh8iix/Wk7_UM_R_for_EnvSci.pptx?dl=0) |  :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk07-Class_materials)
 
 ## Assignments
 
