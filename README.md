@@ -23,7 +23,7 @@
 5. Week 05: [Link to accept the assignment](https://classroom.github.com/a/1LHu6dyI) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk05-hw-solutions)
 6. Week 06: [Link to accept the assignment](https://classroom.github.com/a/-M4sbWHf)
 7. Week 07: [Link to accept the assignment](https://classroom.github.com/a/_kfxD3vU)
-8. Week 08: *coming soon!*
+8. Week 08: [Link to accept the assignment](https://classroom.github.com/a/c-dau4TT)
 
 ## TidyTuesday Commentary Assignments
 
