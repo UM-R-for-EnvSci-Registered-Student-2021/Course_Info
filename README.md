@@ -13,6 +13,8 @@
 6. Week 06: :movie_camera: [Recording](https://youtu.be/ytqQrdzo3_E) | :bar_chart: [Slides](https://www.dropbox.com/s/dlhiqg6fdx95dwk/Wk6_UM_R_for_EnvSci.pptx?dl=0) |  :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk06-Class_materials)
 7. Week 07: :movie_camera: [Recording](https://youtu.be/1h68_xhoGV4) | :bar_chart: [Slides](https://www.dropbox.com/s/lpknweqtrwh8iix/Wk7_UM_R_for_EnvSci.pptx?dl=0) |  :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk07-Class_materials)
 8. Week 08: :movie_camera: [Recording](https://youtu.be/q2kfYTMcvvU) | :bar_chart: [Slides](https://www.dropbox.com/s/3uw5d5e9zp4gst1/Wk8_UM_R_for_EnvSci.pptx?dl=0) |  :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk08-Class_materials)
+9. Week 09:  *No class - Reading week*
+10. Week10: :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk10-Class_materials)
 
 ## Assignments
 
@@ -24,6 +26,7 @@
 6. Week 06: [Link to accept the assignment](https://classroom.github.com/a/-M4sbWHf)
 7. Week 07: [Link to accept the assignment](https://classroom.github.com/a/_kfxD3vU)
 8. Week 08: [Link to accept the assignment](https://classroom.github.com/a/c-dau4TT)
+9. Week 09: *No assignment*
 
 ## TidyTuesday Commentary Assignments
 
