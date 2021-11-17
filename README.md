@@ -25,7 +25,7 @@
 5. Week 05: [Link to accept the assignment](https://classroom.github.com/a/1LHu6dyI) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk05-hw-solutions)
 6. Week 06: [Link to accept the assignment](https://classroom.github.com/a/-M4sbWHf) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk06-hw-solutions)
 7. Week 07: [Link to accept the assignment](https://classroom.github.com/a/_kfxD3vU) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk07-hw-solutions)
-8. Week 08: [Link to accept the assignment](https://classroom.github.com/a/c-dau4TT)
+8. Week 08: [Link to accept the assignment](https://classroom.github.com/a/c-dau4TT) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk08-hw-solutions)
 9. Week 09: *No assignment - Reading week*
 10. Week 10: **TidyTuesday Assignment - Graded** - [Link to accept assignment](https://classroom.github.com/a/_veQs3T_)
 
