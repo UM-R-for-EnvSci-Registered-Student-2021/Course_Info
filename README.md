@@ -29,6 +29,7 @@
 8. Week 08: [Link to accept the assignment](https://classroom.github.com/a/c-dau4TT) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/wk08-hw-solutions)
 9. Week 09: *No assignment - Reading week*
 10. Week 10: **TidyTuesday Assignment - Graded** - [Link to accept assignment](https://classroom.github.com/a/_veQs3T_)
+11. Week 11: [Link to accept the assignment](https://classroom.github.com/a/AXf2Mm0x)
 
 ## TidyTuesday Commentary Assignments
 
@@ -42,6 +43,7 @@
 8. Week 08: *No assignment*
 9. Week 09: *No assignment*
 10. Week 10: *No assignment*
+11. Week 11: *No assignment*
 
 ## Tentative course schedulle
 
