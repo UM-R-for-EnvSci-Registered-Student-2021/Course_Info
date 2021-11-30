@@ -16,6 +16,7 @@
 9. Week 09:  *No class - Reading week*
 10. Week 10: :movie_camera: [Recording](https://youtu.be/VXbpKetCeTA) | :bar_chart: [Slides](https://www.dropbox.com/s/iplg8cktsc7idfl/Wk10_UM_R_for_EnvSci.pptx?dl=0) |  :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk10-Class_materials)
 11. Week 11: :movie_camera: [Recording](https://youtu.be/emLWeaB3-N4) | :bar_chart: [Slides](https://www.dropbox.com/s/urn3av10ufv8hby/Wk11_UM_R_for_EnvSci.pptx?dl=0) |   :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk11-Class_materials)
+12. Week 12: :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk12-Class_materials)
 
 ## Assignments
 
