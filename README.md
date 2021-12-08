@@ -19,6 +19,8 @@
 12. Week 12: :movie_camera: [Recording](https://youtu.be/JvZI-xDCkMc) | :bar_chart: [Slides](https://www.dropbox.com/s/lih70jbqsbvsk4l/Wk12_UM_R_for_EnvSci.pptx?dl=0) |  :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk12-Class_materials)
 13. Week 13: :movie_camera: [Recording](https://youtu.be/curjfX_NKec) | :bar_chart: [Slides](https://www.dropbox.com/s/t7y24m9vd48neyf/Wk13_UM_R_for_EnvSci.pptx?dl=0) |   :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student-2021/Wk13-Class_materials)
 
+- Link to the complete [video playlist](https://www.youtube.com/playlist?list=PL2e5ZbQ3iEYxzZdlsJCSsnMVw6myYjpTe) - Keep this link for the future 
+
 ## Assignments
 
 1. Week 01: [Link to accept the assignment](https://classroom.github.com/a/j3Aac7w5)
